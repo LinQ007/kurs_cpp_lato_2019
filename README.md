@@ -99,7 +99,7 @@ Materiały z kursu C++ (Lipiec 2019 - Wrzesień 2019)
 | [Arion](https://github.com/Ariionex)                |   31 |            3 |    |    |        |         |    |    |       |      |  7 |    | 15 |    |  6 |    |    |
 | [Bodzio](https://github.com/Dolaroza)               |   65 |            3 |    |    |        |       8 |    |    |       |    5 |  6 |    | 15 | 22 |  6 |    |    |
 | [Cypher](https://github.com/ChopSeeGuy)             |  104 |            6 |    |    |        |      15 |    | 21 |       |    5 | 15 |  8 | 15 | 13 |  6 |    |    |
-| [Daniel T](https://github.com/LinQ007)              |   84 |            6 |    |    |        |         |    | 15 |       |      | 15 | 15 | 12 |  5 | 17 |    |    |
+| [Daniel T](https://github.com/LinQ007)              |   91 |            6 |    |    |        |         |    | 15 |       |      | 15 | 15 | 12 | 12 | 17 |    |    |
 | [Joanna](https://github.com/teojdb)                 |   75 |            6 |    |    |      1 |       8 |    |    |       |      | 15 |  9 |  8 | 22 |  6 |    |    |
 | [Kamil.Waszkiewicz](https://github.com/darkassazi)  |  105 |            6 |    |    |        |      15 |    |    |       |    3 | 15 | 15 | 15 | 15 | 21 |    |    |
 | [Kuba_K](https://github.com/kubakusz)               |    9 |              |    |    |        |         |    |    |       |      |  3 |    |    |    |  6 |    |    |
